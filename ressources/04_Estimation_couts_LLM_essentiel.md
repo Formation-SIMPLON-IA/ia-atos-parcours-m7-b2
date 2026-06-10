@@ -68,3 +68,14 @@ Hypothèse : 5 000 prédictions/jour.
 - [ ] Je donne des **ordres de grandeur** (pas un faux précis).
 - [ ] Je compare A et B en €/mois.
 - [ ] Je cite ≥ 1 coût caché.
+
+> 💡 **Récap** : chiffrer en **ordre de grandeur** sur une hypothèse de volume —
+> compter input **et** output (+ embeddings si RAG). Repère : RF ~50 €/mois vs LLM API
+> ~300–800 €/mois. Ne pas oublier les coûts cachés (latence, maintenance, dépendance
+> fournisseur). Faux précis (« 487,32 € ») = non crédible.
+
+*Réflexe : toujours expliciter l'hypothèse de volume (inférences/jour) — sans elle, deux estimations ne sont pas comparables.*
+
+*Repère mémoire : pour un même volume, une API LLM est typiquement **un ordre de grandeur** au-dessus d'un modèle tabulaire — d'où l'importance de prouver le gain avant d'y aller.*
+
+*(Et n'oubliez pas : le coût d'output d'un LLM dépasse souvent le coût d'input — ne le sous-estimez pas dans l'estimation.)*

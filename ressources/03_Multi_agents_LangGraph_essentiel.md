@@ -74,3 +74,8 @@ Concevez (schéma + 3 lignes) l'option C pour MediVox :
 - [ ] Je sais nommer le coût de la complexité.
 - [ ] Je juge **honnêtement** si des agents se justifient ici (souvent non).
 - [ ] Je **conçois** sans implémenter.
+
+> 💡 **Récap** : des **agents spécialisés** coopèrent via un **état partagé**
+> (orchestration). Atout : HITL natif (agent superviseur). Coût : complexité, debug,
+> observabilité, points de panne. Pour une prédiction tabulaire simple = souvent
+> **sur-engineering** — à juger honnêtement.

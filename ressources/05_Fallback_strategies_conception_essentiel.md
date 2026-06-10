@@ -71,3 +71,10 @@ Relie chaque fallback à une obligation AI Act/RGPD.
 - [ ] Je distingue fallback (conception) et réaction au drift (M6).
 - [ ] Mes seuils sont justifiés, pas arbitraires.
 - [ ] Le HITL est décrit comme une **procédure**, pas un vœu.
+
+> 💡 **Récap** : prévoir **dès l'architecture** quoi faire quand le modèle n'est pas
+> sûr — seuil de rejet (A), abstention (B), HITL (C) — et relier chaque fallback à une
+> obligation (AI Act art. 14 / RGPD art. 22). Fallback en **conception** ≠ réaction au
+> **drift** en exploitation (M6).
+
+*Réflexe : un fallback est une **procédure** (qui, quand, comment), pas une intention — sinon il n'existe pas en pratique.*

@@ -76,3 +76,8 @@ marp: true
 - [ ] 1 slide **recommandation** claire (+ garde-fou sobriété).
 - [ ] Répartition duo définie et répétée.
 - [ ] Timing 10+5 tenu en répétition.
+
+> 💡 **Récap** : **1 idée par slide**, ≤ 3 bullets, lisible à 3 m, ≤ 10 slides.
+> 1 slide **recommandation** claire + garde-fou sobriété. Répartir la prise de parole
+> en duo et **répéter** le timing (10 min + 5 min Q&A). C'est l'entraînement direct à
+> la **soutenance M9**.

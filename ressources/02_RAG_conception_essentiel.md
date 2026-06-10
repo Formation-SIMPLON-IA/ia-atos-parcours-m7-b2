@@ -73,3 +73,8 @@ Concevez (schéma + 3 lignes) un RAG pour enrichir la prédiction DMS :
 - [ ] Je signale le risque conformité (données santé + explicabilité).
 - [ ] Je sais dire si le texte apporte un gain (ou non) pour ce cas.
 - [ ] Je **conçois** sans implémenter.
+
+> 💡 **Récap** : RAG = embeddings → vector store → retriever → prompt → LLM, pour
+> **ancrer** la génération sur **vos** documents. Toujours un **fallback** (abstention
+> si pas de contexte). En santé : explicabilité faible + données sensibles → conformité
+> AI Act **tendue**. On **conçoit** (schéma + coût + risques), on n'implémente pas.

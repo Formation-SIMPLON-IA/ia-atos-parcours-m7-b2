@@ -71,3 +71,10 @@ Pour le DMS predictor MediVox :
 - [ ] Je reconnais l'anti-pattern de mode.
 - [ ] Je tranche **une** recommandation.
 - [ ] Mon gain annoncé est chiffré ou conditionné à une preuve.
+
+> 💡 **Récap** : comparer A (ML modernisé) / B (LLM+RAG) / C (agents) sur les **mêmes**
+> 4 dimensions, puis **trancher UNE** option. Réflexe : la solution la plus **simple**
+> qui répond au besoin ; ne complexifier que si un gain est **prouvé**. Sur du tabulaire,
+> « moderniser l'existant » est souvent le meilleur verdict (sobriété).
+
+*Réflexe : la bonne question n'est pas « quelle est la techno la plus avancée ? » mais « quelle est la plus simple qui résout le problème ? ».*
