@@ -8,5 +8,6 @@
 | Estimer les coûts LLM | [`04_Estimation_couts_LLM`](04_Estimation_couts_LLM_essentiel.md) |
 | Fallback en conception | [`05_Fallback_strategies_conception`](05_Fallback_strategies_conception_essentiel.md) |
 | Slides de restitution | [`06_Slides_restitution_15min`](06_Slides_restitution_15min_essentiel.md) |
+| Fine-tuning : quand/comment/coût ⭐ | [`07_Fine_tuning_quand_comment`](07_Fine_tuning_quand_comment_essentiel.md) |
 
 Liens : [`liens_officiels.md`](liens_officiels.md).
