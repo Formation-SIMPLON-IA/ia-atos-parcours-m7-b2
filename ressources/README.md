@@ -10,4 +10,11 @@
 | Slides de restitution | [`06_Slides_restitution_15min`](06_Slides_restitution_15min_essentiel.md) |
 | Fine-tuning : quand/comment/coût ⭐ | [`07_Fine_tuning_quand_comment`](07_Fine_tuning_quand_comment_essentiel.md) |
 
+## Ressources transverses ([`ia-atos-ressources`](https://github.com/Formation-SIMPLON-IA/ia-atos-ressources))
+
+- `cheatsheet_sobriete_couts.md` — les ordres de grandeur pour **chiffrer** vos 3 options
+- `cheatsheet_cloud_hyperscalers.md` — situer « self-host GPU » (IaaS) vs API managée : coûts, lock-in, souveraineté des options B/C
+- `grille_decision_stockage.md` — où vivent les données de chaque option (le vectoriel n'apparaît que si RAG)
+- `fiche_genai_llm_agents.pdf` + `fiche_techniques_rag.pdf` — aide-mémoire A4 : l'échelle prompt → RAG → fine-tuning → agent, et les pièges GenAI
+
 Liens : [`liens_officiels.md`](liens_officiels.md).

@@ -2,7 +2,7 @@
 
 > **Repo template.** Binôme par affinité technique. « Use this template » →
 > `M7-B2-medivox-evolutions-<binome>`. **Pas de code** — conception et arbitrage.
-> Restitution orale **lundi M8** (15 min, slides).
+> Restitution orale **mardi M8** (15 min, slides).
 
 ## 🧭 Ce que vous produisez
 

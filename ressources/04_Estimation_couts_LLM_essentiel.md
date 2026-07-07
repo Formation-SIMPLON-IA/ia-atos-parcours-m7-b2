@@ -17,7 +17,9 @@ honnêtes** à partir de tarifs publics suffisent pour trancher.
   prix_in + tokens_out × prix_out. **L'output coûte souvent plus cher** que l'input.
 - **API commerciale vs self-host** : une API (OpenAI/Anthropic/Mistral) = pas
   d'infra mais coût récurrent par appel ; self-host (Mistral 7B sur GPU) = coût
-  fixe GPU mais maîtrise des données.
+  fixe GPU mais maîtrise des données. En pratique, le self-host = louer un GPU
+  chez un hyperscaler (étage IaaS) et l'API = leur étage managé — repères dans
+  `cheatsheet_cloud_hyperscalers.md` (`ia-atos-ressources`).
 - **Embeddings** : un RAG facture aussi les embeddings (indexation + requêtes).
 - **Ordre de grandeur** : un RandomForest = **~50 €/mois** (compute négligeable) ;
   une option LLM en API = **~300–800 €/mois** selon le volume.
