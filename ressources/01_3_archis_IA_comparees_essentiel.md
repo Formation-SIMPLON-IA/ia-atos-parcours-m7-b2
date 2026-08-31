@@ -28,14 +28,22 @@ Sur un problème tabulaire simple, la réponse est souvent « moderniser l'exist
 
 ## Exemple minimal qui tourne
 
+Sur un **autre** cas (tri de réclamations d'un bailleur social — pas le
+vôtre) : la structure se réutilise, **pas les valeurs ni le verdict** —
+chaque cellule se re-dérive de VOTRE contexte, chiffres à l'appui.
+
 ```markdown
 | Dimension | A ML | B LLM+RAG | C agents |
 |---|---|---|---|
-| Conformité | forte | tendue | bonne |
-| Sobriété (€/mois) | ~50 | ~500 | ~300 |
-| Perf (gain) | réf | non démontré | non démontré |
-→ Recommandation : A (sauf gain texte prouvé → POC RAG ciblé).
+| Conformité | à évaluer | à évaluer | à évaluer |
+| Sobriété (€/mois) | ~X | ~10-20X | ~5-10X |
+| Perf (gain) | référence | à démontrer | à démontrer |
+→ Recommandation : UNE option, conditionnée (« sauf si <preuve>, alors <option> »).
 ```
+
+Les ordres de grandeur de coût se chiffrent avec le mini-cours
+`04_Estimation_couts_LLM` — un « ~10-20X » nu, sans calcul derrière, est
+exactement l'argument non défendable du tableau des pièges.
 
 ## Exercice guidé
 
