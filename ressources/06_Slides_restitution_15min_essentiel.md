@@ -6,7 +6,7 @@
 
 ## Pourquoi cette techno ?
 
-Lundi M8, vous présentez **15 min devant la formatrice** (et plus tard un jury en
+Mardi en ouverture de M8, vous présentez **15 min devant la formatrice** (et plus tard un jury en
 certif). Une note de 8 pages ne se présente pas telle quelle : il faut des
 **slides** qui synthétisent, lisibles **à 3 mètres**. C'est le premier exercice de
 restitution orale du parcours — un entraînement direct à la **soutenance M9**

@@ -27,7 +27,7 @@ Renommez les `*_TEMPLATE` en versions finales.
 
 ## 📚 Ressources
 
-Voir [`./ressources/`](./ressources/) — 6 mini-cours + `liens_officiels.md`.
+Voir [`./ressources/`](./ressources/) — 7 mini-cours (dont fine-tuning ⭐) + `liens_officiels.md`.
 
 ## 🖨️ Rendu slides (optionnel)
 
