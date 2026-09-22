@@ -1,6 +1,6 @@
 # M7-B2 — Comparer 3 évolutions architecturales (MediVox)
 
-> **Repo template.** Binôme par affinité technique. « Use this template » →
+> **Repo template.** Binôme ou trinôme (groupes annoncés au lancement) ; chacun rédige l'option opposée à son affinité. « Use this template » →
 > `M7-B2-medivox-evolutions-<binome>`. **Pas de code** — conception et arbitrage.
 > Restitution orale **mardi M8** (15 min, sur vos schémas — pas de slides).
 
