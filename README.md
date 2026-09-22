@@ -10,7 +10,7 @@
 |---|---|---|
 | 1 | 3 schémas Mermaid (convention cohérente) | `schemas/option_{a,b,c}_TEMPLATE.md` |
 | 2 | Comparatif 3×4 chiffré | `comparatif_TEMPLATE.md` |
-| 3 | Note 3-5 pages + **recommandation UNE** + décision en une phrase | `note_comparaison_TEMPLATE.md` |
+| 3 | Note 3 pages maximum + **recommandation UNE** + décision en une phrase | `note_comparaison_TEMPLATE.md` |
 
 Renommez les `*_TEMPLATE` en versions finales.
 
